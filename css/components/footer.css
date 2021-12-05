@@ -1,0 +1,31 @@
+  footer {
+  background-color: #2c2b2b;
+  text-align: center;
+  padding: 60px;
+
+}
+footer a {
+  color:  #2FDD92;
+}
+f
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icon {
+  font-size: 32px;
+  padding: 15px;
+}
+
+footer .fas {
+  color: red;
+}
+
+footer p {
+  color: #6B6C6C;
+}
